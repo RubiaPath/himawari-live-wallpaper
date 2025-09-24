@@ -1,0 +1,12 @@
+{
+  "base_url": ["https://himawari8-dl.nict.go.jp/himawari.asia/img/D531106", "https://anzu.shinshu-u.ac.jp/himawari/img/D531106"],
+  "delay_minutes": 15,
+  "update_interval_minutes": 10,
+  "nd": 2,
+  "tile_size": 550,
+  "scale_mode": "fit",
+  "cover_ratio": 0.8,
+  "pic_size": [2560, 1440],
+  "max_pic_count": 20,
+  "save_dir": "cache"
+}     

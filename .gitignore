@@ -1,0 +1,28 @@
+# macOS 
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python 
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+.venv/
+env/
+venv/
+ENV/
+
+logs/
+*.log
+
+*.tmp
+*.swp
+*.swo
+
+# Picture cache
+cache/
+*.png
+*.jpg
